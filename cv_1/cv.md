@@ -1,4 +1,4 @@
-# [rsschool-cv](https://github.com/NinaLisitsyna.io/rsschool-cv/) 
+# [rsschool-cv](https://github.com/NinaLisitsyna/rsschool-cv)
 ---
 
 ![ my_photo ](./photo.jpg)
