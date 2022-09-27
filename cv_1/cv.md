@@ -21,7 +21,7 @@
 ---
 
 ## About me:
-Three years ago a new period in my life began when I moved to Berlin. To work here in my profession, I would have had to spend too much time retraining. Then I decided that this was a chance to find a new and interesting specialty.  In February 2021, I completed the JS Full-stack course. Now I want to develop more in Front-end. And in order to improve my knowledge and development skills, I am taking training at the RS School. I believe that I can really work as a Front-end developer and be a useful employee for the company.
+Three years ago a new period in my life began when I moved to Berlin. To work here in my profession, I would have had to spend too much time retraining. Then I decided that this was a chance to find a new and interesting specialty. In February 2021, I completed the JS Full-stack course. Now I want to develop more in Front-end. And in order to improve my knowledge and development skills, I am taking training at the RS School. I believe that I can really work as a Front-end developer and be a useful employee for the company.
 
 ---
 
